@@ -1,0 +1,5 @@
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/GeometricFigure/GeometricFigure/bin/Debug/GeometricFigure.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/GeometricFigure/GeometricFigure/bin/Debug/GeometricFigure.pdb
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/GeometricFigure/GeometricFigure/obj/Debug/GeometricFigure.csprojAssemblyReference.cache
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/GeometricFigure/GeometricFigure/obj/Debug/GeometricFigure.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/GeometricFigure/GeometricFigure/obj/Debug/GeometricFigure.pdb

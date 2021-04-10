@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricFigure", "GeometricFigure\GeometricFigure.csproj", "{A17B9268-4343-4D3C-B67D-CD0C64BA0835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometricFigureDrawer", "GeometricFigureDrawer\GeometricFigureDrawer.csproj", "{EBBD066D-4980-4F5D-B75B-527B1498C4F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17B9268-4343-4D3C-B67D-CD0C64BA0835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17B9268-4343-4D3C-B67D-CD0C64BA0835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17B9268-4343-4D3C-B67D-CD0C64BA0835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17B9268-4343-4D3C-B67D-CD0C64BA0835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBBD066D-4980-4F5D-B75B-527B1498C4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBD066D-4980-4F5D-B75B-527B1498C4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBD066D-4980-4F5D-B75B-527B1498C4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBD066D-4980-4F5D-B75B-527B1498C4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
